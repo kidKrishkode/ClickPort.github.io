@@ -24,6 +24,7 @@ a{
 }
 .navbar{
     background: var(--nav-color)!important;
+    font-weight: bold;
 }
 .workspace h2, footer h4{
 	text-align: center;

@@ -23,6 +23,9 @@ document.addEventListener("DOMContentLoaded", function(){
         if(!isGameOver){
             clickCount++;
             clickScreen.value = clickCount;
+            if(clickCount<=1){
+                clickStart();
+            }
         }else{
             gameOver();
         }
@@ -38,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function(){
 });
 function clickStart(){
     const targetDiv = document.getElementById("targetDiv");
-    targetDiv.innerHTML="";
+    targetDiv.innerHTML=" ";
     document.getElementById("time").disabled=true;
     setTimeout(()=>{
         gameOver();
