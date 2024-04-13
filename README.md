@@ -18,9 +18,23 @@ ClickPress is a simple yet addictive website where you can test your click power
 3. Watch your CPS and track your progress towards earning badges.
 4. Share your achievements with friends and challenge them to beat your score!
 
+### Badges:
+- 🐢 Turtle Badge: Beginner level
+- 🐰 Rabbit Badge: Intermediate level
+- 🦊 Fox Badge: Advanced level
+- 🦁 Lion Badge: Expert level
+- 🐲 Dragon Badge: Ultimate level
+- 👑 Etc..
+
 ## Development
 
-ClickPress is developed using HTML, CSS, Bootstrap, and JavaScript, making it lightweight and easily accessible on any device. 
+ClickPress is developed using HTML, CSS, Bootstrap, and JavaScript, on hex framework making it lightweight and easily accessible on any device. 
+
+### Technologies Used:
+- HTML
+- CSS
+- Bootstrap 
+- JavaScript
 
 ## Get In Touch
 
@@ -29,6 +43,13 @@ For any inquiries or assistance, please contact us at [krishnendumitra24@gmail.c
 ## Watch Development Video
 
 Check out our development process on [YouTube](https://youtube.com/@kidKrishkode)!
+
+### How to Contribute:
+1. Fork the repository.
+2. Clone the forked repository to your local machine.
+3. Make your changes.
+4. Push your changes to your forked repository.
+5. Submit a pull request.
 
 Let the clicking begin! 💪🖱️
 
